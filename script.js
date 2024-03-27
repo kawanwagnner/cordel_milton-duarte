@@ -1,4 +1,4 @@
-window.sr = ScrollReveal({ reset: true });
+window.sr = ScrollReveal({ reset: false });
 
 sr.reveal('#titulo', { 
     rotate: {x: 1000, y: 20, z: 0}, duration: 2000 
